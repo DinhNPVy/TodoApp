@@ -1,5 +1,4 @@
 import React from 'react';
-import Navbar from './components/Navbar'
 import FormInput from './components/FormInput';
 import List from './components/List';
 import Footer from './components/Footer';
